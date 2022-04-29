@@ -1,4 +1,4 @@
-# Genshin_Obeject_Detection
+# Genshin Obeject Detection Dataset
 
 <p>
 Test video download link:
